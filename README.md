@@ -1,2 +1,3 @@
 # Processamento-Digital-de-Sinais
-Gustavo Eric
+Gustavo Melo dos Santos
+Eric Clementino de Carvalho
