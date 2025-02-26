@@ -1,6 +1,7 @@
 # Processamento-Digital-de-Sinais
-##Gustavo Melo dos Santos
-##Eric Clementino de Carvalho
+## Direitos reservados:
+- ### Gustavo Melo dos Santos
+- ### Eric Clementino de Carvalho
 
 # 📌 Visão Geral
 
