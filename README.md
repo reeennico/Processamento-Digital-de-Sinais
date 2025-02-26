@@ -46,7 +46,7 @@ Cada capítulo contém uma abordagem teórica detalhada, acompanhada de implemen
 - Transformações para ajuste da banda de frequência.
 
 ### [**Capítulo 12: Aplicações em Comunicações**](https://github.com/reeennico/Processamento-Digital-de-Sinais/blob/main/Cap_12.ipynb)
-- Modulação por Código de Pulso (PCM). [🎥]([https://www.youtube.com/watch?v=vs5kBqziXO0&list=PLeKMk5StAeXXRqgHzIKe_MkZekrhY4mX1](https://www.youtube.com/watch?v=vs5kBqziXO0))
+- Modulação por Código de Pulso (PCM). [🎥](https://www.youtube.com/watch?v=vs5kBqziXO0&list=PLeKMk5StAeXXRqgHzIKe_MkZekrhY4mX1)
 - PCM diferencial (DPCM) e PCM adaptativo (ADPCM). [🎥](https://www.youtube.com/watch?v=PFbm-jsTIpA)
 - Modulação Delta (DM) e Modulação Delta Adaptativa (ADM). [🎥](https://www.youtube.com/watch?v=0nNAl4VDUoI&t=734s)
 - Codificação preditiva linear (LPC) aplicada à voz. [🎥](https://www.youtube.com/watch?v=MKHVc79JYMM&t=6s)
